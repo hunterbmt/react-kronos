@@ -68,7 +68,9 @@
     "jss-camel-case": "^0.1.2",
     "jss-nested": "^0.1.8",
     "jss-px": "^0.1.4",
-    "jss-vendor-prefixer": "^0.2.2",
+    "jss-vendor-prefixer": "^0.2.2"
+  },
+  "peerDependencies": {
     "lodash": "^3.10.1",
     "moment": "^2.10.6",
     "moment-range": "^2.0.3",
